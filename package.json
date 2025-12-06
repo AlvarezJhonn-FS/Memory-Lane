@@ -15,8 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^5.13.3",
+    "gatsby": "^5.15.0",
     "gatsby-plugin-sass": "^6.15.0",
+    "lmdb": "^3.4.4",
+    "msgpackr": "^1.11.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.94.2"
