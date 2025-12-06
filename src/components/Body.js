@@ -36,7 +36,14 @@ const Body = () => {
             <p>My workflow for turning markdown content into HTML pages.</p>
             <Link className="read" to="/posts/post3">Read More →</Link>
           </article>
-
+           <article className="post-card">
+            <h3>
+              <Link to="/posts/post4">Markdown → Static Site</Link>
+            </h3>
+            <p className="meta">Nov 30, 2025 • Tools</p>
+            <p>My workflow for turning markdown content into HTML pages.</p>
+            <Link className="read" to="/posts/post4">Read More →</Link>
+          </article>
         </div>
       </main>
       <footer><p>Memory Lane • Jhonn Alvarez</p></footer>
